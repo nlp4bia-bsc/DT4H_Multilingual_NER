@@ -68,7 +68,7 @@ python inference_scripts/predict_mentions_stl_hf.py \
 ```bash
 python inference_scripts/predict_mentions_mtl_local.py \
   --input_dir /path/to/txt_files \
-  --model_path /path/to/DT4H_XLM-R_es-it-ro_disease.pt \
+  --model_path /path/to/DT4H_XLM-R_mtl_es-it-ro_disease.pt \
   --task disease_ro_ner \
   --output_tsv outputs_disease_ro.tsv
 ```
