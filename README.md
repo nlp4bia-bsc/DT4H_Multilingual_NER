@@ -27,7 +27,7 @@ The focus is multilingual clinical NER for disease, symptom, and procedure menti
 
 Group A (`es-it-ro`):
 - `BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_disease.pt`
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_symptom.pt`
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_symptom.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_symptom)
 - `BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_procedure.pt`
 
 Group B (`en-nl-sv`):
