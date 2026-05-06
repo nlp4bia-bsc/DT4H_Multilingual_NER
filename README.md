@@ -19,24 +19,24 @@ The focus is multilingual clinical NER for disease, symptom, and procedure menti
 
 ### Single-task (Hugging Face)
 
-- `BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_disease`
-- `BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_symptom`
-- `BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_procedure`
+- [`BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_disease`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_disease)
+- [`BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_symptom`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_symptom)
+- [`BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_procedure`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_stl_multilingual_procedure)
 
 ### Multi-task (local .pt)
 
 Group A (`es-it-ro`):
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_disease.pt`
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_disease.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_disease)
 - [`BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_symptom.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_symptom)
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_procedure.pt`
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_procedure.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_es-it-ro_procedure)
 
 Group B (`en-nl-sv`):
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_disease.pt`
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_symptom.pt`
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_procedure.pt`
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_disease.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_disease)
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_symptom.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_symptom)
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_procedure.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_en-nl-sv_procedure)
 
 Multilingual multilabel:
-- `BSC-NLP4BIA/DT4H_XLM-R_mtl_multilingual_multilabel.pt`
+- [`BSC-NLP4BIA/DT4H_XLM-R_mtl_multilingual_multilabel.pt`](https://huggingface.co/BSC-NLP4BIA/DT4H_XLM-R_mtl_multilingual_multilabel)
 
 All models are publicly available in BSC-NLP4BIA’s “DT4H Multilingual NER Models” Hugging Face collection: https://huggingface.co/collections/BSC-NLP4BIA/dt4h-multilingual-ner-models
 
